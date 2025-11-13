@@ -12,7 +12,7 @@ A Flutter Ads plugin core library for iOS.
   # 二进制框架方式配置进行测试
   s.frameworks = 'Foundation'
   s.source           = { 
-    :git => 'https://github.com/yourcompany/flutterads-core-ios.git',
+    :git => 'https://github.com/FlutterAds/flutterads-core-ios.git',
     :tag => "v#{s.version}"
   }
   
