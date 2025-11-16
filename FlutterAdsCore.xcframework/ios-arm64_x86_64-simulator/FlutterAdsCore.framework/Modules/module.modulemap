@@ -1,6 +1,6 @@
 framework module FlutterAdsCore {
-  umbrella header "FlutterAdsCore.h"
-  export *
+  umbrella header "FlutterAdsCore-umbrella.h"
 
+  export *
   module * { export * }
 }
