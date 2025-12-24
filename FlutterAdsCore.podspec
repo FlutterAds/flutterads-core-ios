@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FlutterAdsCore'
-  s.version          = '1.1.0'
+  s.version          = '1.2.0'
   s.summary          = 'A Flutter Ads plugin core library for iOS.'
   s.description      = <<-DESC
 A Flutter Ads plugin core library for iOS.
