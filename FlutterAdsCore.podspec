@@ -21,10 +21,10 @@ A Flutter Ads plugin core library for iOS.
   s.vendored_frameworks = 'FlutterAdsCore.xcframework'
 
   # GroMore 聚合 SDK
-  s.dependency 'Ads-CN/BUAdSDK', '7.1.1.1'
-  s.dependency 'Ads-CN/CSJMediation-Only', '7.1.1.1'
+  s.dependency 'Ads-CN/BUAdSDK', '7.2.1.5'
+  s.dependency 'Ads-CN/CSJMediation-Only', '7.2.1.5'
   # GroMore 测试 SDK（仅在 Debug 模式下有效）
-  s.dependency 'Ads-CN/BUAdTestMeasurement', '7.1.1.1', :configurations => ['Debug']
+  s.dependency 'Ads-CN/BUAdTestMeasurement', '7.2.1.5', :configurations => ['Debug']
   # 基础依赖
   s.frameworks = 'Foundation'
   
