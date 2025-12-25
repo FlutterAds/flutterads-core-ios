@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JxGapFvW2rHOhdoNBmDMD7Emhw8=
+		P5yMQ8mTHAvitS0b4PFvIG93dHI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,6 +99,10 @@
 		<key>PrivateHeaders/FGMSplashPage.h</key>
 		<data>
 		ZnjYiZhY2dOdYtg/vQq6Zj0gDDk=
+		</data>
+		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>
+		<data>
+		4G7TjLGJ8tTGQxW7fNxpX5jh0N8=
 		</data>
 		<key>PrivateHeaders/SimpleLicenseManager.h</key>
 		<data>
@@ -358,6 +362,17 @@
 			<key>hash2</key>
 			<data>
 			ahESZKVceYdeGREl6WclyizYbObIV8zWcgPEJbwwG4s=
+			</data>
+		</dict>
+		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4G7TjLGJ8tTGQxW7fNxpX5jh0N8=
+			</data>
+			<key>hash2</key>
+			<data>
+			NUhrWw+a04B9NQJcJVKqYrY8/Q8oBtWqvAZlLvy6OL0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/SimpleLicenseManager.h</key>
