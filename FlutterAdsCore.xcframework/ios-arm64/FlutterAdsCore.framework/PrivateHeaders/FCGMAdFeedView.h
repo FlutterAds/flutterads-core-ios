@@ -14,4 +14,5 @@
                         viewIdentifier:(int64_t)viewId
                              arguments:(id _Nullable)args;
 - (nonnull UIView*) view;
+- (void) disposeAd;
 @end

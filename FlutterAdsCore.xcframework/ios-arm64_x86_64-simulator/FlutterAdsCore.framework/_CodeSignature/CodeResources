@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		P5yMQ8mTHAvitS0b4PFvIG93dHI=
+		Ws11OSk3Hse+EfvijMzXlLL6FLA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>PrivateHeaders/FCGMAdDrawFeedView.h</key>
 		<data>
-		dfnOKplgq/Sv0PKbXVJm+EMjoGo=
+		upDRRBt2pIQVC1IcxSh6qdGTVbs=
 		</data>
 		<key>PrivateHeaders/FCGMAdFeedView.h</key>
 		<data>
-		4GM+LwHoBf1tAzeR6bjWB6diZfs=
+		Fvvdq+W8y7f1UE9yXzqUFD3Lk4U=
 		</data>
 		<key>PrivateHeaders/FGMBasePage.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>PrivateHeaders/FGMFeedAdLoad.h</key>
 		<data>
-		UswWA/FEo5KdsdirCqML6PgAJFo=
+		VKaKkoyklwkuNXOBCyaJHgtC67Q=
 		</data>
 		<key>PrivateHeaders/FGMFeedAdManager.h</key>
 		<data>
@@ -258,22 +258,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dfnOKplgq/Sv0PKbXVJm+EMjoGo=
+			upDRRBt2pIQVC1IcxSh6qdGTVbs=
 			</data>
 			<key>hash2</key>
 			<data>
-			whucADJBGtlui+zevH1Q00oxHygX8gBQ1jlNcPr2Glc=
+			pzsxih+aOw82Fum/2JniFNc56o1Xx++D7mDJHho2lpg=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FCGMAdFeedView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4GM+LwHoBf1tAzeR6bjWB6diZfs=
+			Fvvdq+W8y7f1UE9yXzqUFD3Lk4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			AluMUzGoqJ7wNV2MYwGpG23lje7IF5cdx0y4jcrywsY=
+			YQoG2rJ/2Ls08csEg07zPfJEim8mRIfO/KCVlu0nqtE=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FGMBasePage.h</key>
@@ -291,11 +291,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UswWA/FEo5KdsdirCqML6PgAJFo=
+			VKaKkoyklwkuNXOBCyaJHgtC67Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZ56nFUJXXLa0LyvWrjZuw/SWVwYJYsiVGUAt4iOW5U=
+			NkQ8wBgVGsrf/18/0JJWWlNI0QzNhLArjXPZSTQvft4=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FGMFeedAdManager.h</key>

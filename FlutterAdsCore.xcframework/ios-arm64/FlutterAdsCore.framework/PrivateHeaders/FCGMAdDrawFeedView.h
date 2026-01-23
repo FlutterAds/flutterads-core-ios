@@ -9,10 +9,10 @@
 
 // Draw 信息流view
 @interface FCGMAdDrawFeedView : FGMBasePage<BUNativeAdDelegate>
-//@property (strong,nonatomic,nullable) FlutterGromoreAdsPlugin *plugin;
 @property int64_t viewId;
 - (nonnull instancetype) initWithFrame:(CGRect)frame
                         viewIdentifier:(int64_t)viewId
                              arguments:(id _Nullable)args;
 - (nonnull UIView*) view;
+- (void) disposeAd;
 @end

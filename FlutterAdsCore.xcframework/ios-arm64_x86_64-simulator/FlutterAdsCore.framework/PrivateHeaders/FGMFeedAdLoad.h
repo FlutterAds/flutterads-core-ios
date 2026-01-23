@@ -15,4 +15,5 @@
 
 // 加载信息流广告列表
 -(void) loadFeedAdList:(id _Nullable) arguments callback:(FGMAdCallback _Nullable) callback;
+-(void) destory;
 @end
