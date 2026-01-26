@@ -7,3 +7,4 @@
 
 #import <BUAdSDK/BUAdSDK.h>
 #import <BUAdTestMeasurement/BUAdTestMeasurement.h>
+#import <BUAdSDK/BUAdSDKPrivacyProvider.h>

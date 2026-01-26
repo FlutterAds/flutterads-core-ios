@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/FGMGroMore.h</key>
 		<data>
-		LXVsMF5Jtu30LUEk86HtbwfICJM=
+		TBIhtH9BVWYcLsdhtlLKcf/RgPA=
 		</data>
 		<key>Headers/FlutterAdsCore-umbrella.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ws11OSk3Hse+EfvijMzXlLL6FLA=
+		leJy2TlOH889qV4Chs29w5Z9SyY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,6 +99,10 @@
 		<key>PrivateHeaders/FGMSplashPage.h</key>
 		<data>
 		ZnjYiZhY2dOdYtg/vQq6Zj0gDDk=
+		</data>
+		<key>PrivateHeaders/FlutterAdsPrivacyProvider.h</key>
+		<data>
+		y2OF1lmZP7JEPX7x7cwGB2Vc2q4=
 		</data>
 		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>
 		<data>
@@ -192,11 +196,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LXVsMF5Jtu30LUEk86HtbwfICJM=
+			TBIhtH9BVWYcLsdhtlLKcf/RgPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			m4Kb70kfXV2x2yFH9WboMh6OVgPIGILdIonDe7sBsZU=
+			Bt86YxdPvW6BlSfobLonVv65unmamTf7u+bnSrdP28U=
 			</data>
 		</dict>
 		<key>Headers/FlutterAdsCore-umbrella.h</key>
@@ -362,6 +366,17 @@
 			<key>hash2</key>
 			<data>
 			ahESZKVceYdeGREl6WclyizYbObIV8zWcgPEJbwwG4s=
+			</data>
+		</dict>
+		<key>PrivateHeaders/FlutterAdsPrivacyProvider.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y2OF1lmZP7JEPX7x7cwGB2Vc2q4=
+			</data>
+			<key>hash2</key>
+			<data>
+			w7d7LN4VSB+Bg48X6oXDxfMvIpihnBD+wgaxJFE27LU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>
