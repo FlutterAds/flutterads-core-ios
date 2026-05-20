@@ -26,6 +26,9 @@
 /// 获取库版本
 + (NSString *)libraryVersion;
 
+/// 是否发送ADN加载错误信息
++ (BOOL)sendAdnLoadInfo;
+
 // ViewId
 extern NSString *const kGMAdBannerViewId;
 extern NSString *const kGMAdFeedViewId;

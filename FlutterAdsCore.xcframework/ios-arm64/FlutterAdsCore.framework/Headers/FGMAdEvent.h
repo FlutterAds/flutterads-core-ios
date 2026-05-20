@@ -30,11 +30,15 @@ static NSString *const onAdComplete=@"onAdComplete";
 static NSString *const onAdReward=@"onAdReward";
 // 获得 Ecmp
 static NSString *const onAdEcpm=@"onAdEcpm";
+// ADN加载错误信息
+static NSString *const onAdnLoadInfo=@"onAdnLoadInfo";
 
 // 广告事件
 @interface FGMAdEvent : NSObject
+// 广告位id
+@property (copy,nonatomic) NSString *posId;
 // 广告id
-@property (copy,nonatomic) NSString *adId;
+@property (strong,nonatomic,nullable) NSNumber *adId;
 // 操作事件
 @property (copy,nonatomic) NSString *action;
 // 构造广告事件

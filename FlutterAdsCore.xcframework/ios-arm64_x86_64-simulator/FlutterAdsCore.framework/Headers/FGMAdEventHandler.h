@@ -28,5 +28,9 @@
 - (void) sendErrorEvent:(NSString *) posId error:(NSError*) error;
 // 发送  Ecmp 事件
 - (void) sendEcmpEvent:(NSString *) posId info:(BUMRitInfo*) info;
+// 发送未授权错误事件
+- (void) sendAuthErrorEvent:(NSString *) msg;
+// 发送 ADN 加载错误信息
+- (void) sendAdLoadInfoEvent:(NSString *) posId loadInfoList:(NSArray *) loadInfoList;
 @end
 

@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/FGMAdEvent.h</key>
 		<data>
-		uybWNzHDbLUJLHdSBwZSRKBMLlg=
+		30XQJcqeJdHznGGMf2XrJa/yXVQ=
 		</data>
 		<key>Headers/FGMAdEventDefines.h</key>
 		<data>
@@ -26,7 +26,11 @@
 		</data>
 		<key>Headers/FGMAdEventHandler.h</key>
 		<data>
-		5sO675QJ38oMCsE1VuW7zeQOdc8=
+		SV6antS6nGi1FbZX97tUUJBPPmA=
+		</data>
+		<key>Headers/FGMAdLoadInfoEvent.h</key>
+		<data>
+		5nLJT5/iKUC4sFQvDhMYaO2lsRY=
 		</data>
 		<key>Headers/FGMAdRewardEvent.h</key>
 		<data>
@@ -38,15 +42,15 @@
 		</data>
 		<key>Headers/FlutterAdsCore-umbrella.h</key>
 		<data>
-		Oykw1HSW6++JA7nOno7sc1fPosI=
+		lyNIUN8GgZQ3M7QmRBtz/wsFlsc=
 		</data>
 		<key>Headers/FlutterAdsCore.h</key>
 		<data>
-		x6b4nGAr/zXi/4zlEhTbQqAhVd4=
+		9qN2tRlmQsCdxFhokqQXDfmt/KM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		leJy2TlOH889qV4Chs29w5Z9SyY=
+		fR6S4AicThpG6Kl6vImZUwFUAGI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +74,7 @@
 		</data>
 		<key>PrivateHeaders/FGMBasePage.h</key>
 		<data>
-		4gm+57NeXgZOak64GmnpEJ68bcw=
+		WYaVmzJXqbaXVEHolxEwXsJQG0Q=
 		</data>
 		<key>PrivateHeaders/FGMFeedAdLoad.h</key>
 		<data>
@@ -102,7 +106,7 @@
 		</data>
 		<key>PrivateHeaders/FlutterAdsPrivacyProvider.h</key>
 		<data>
-		y2OF1lmZP7JEPX7x7cwGB2Vc2q4=
+		UcDZxJcKtCO3AxSgTIG0YS1Mp6M=
 		</data>
 		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>
 		<data>
@@ -152,11 +156,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uybWNzHDbLUJLHdSBwZSRKBMLlg=
+			30XQJcqeJdHznGGMf2XrJa/yXVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1joa2MG9mS1Ba9Aou3qBiLipvVNy2RmykModAQrP6Ds=
+			NZwULHiFFTKzeLrn+wN50vbl8/J58tlThTxADuw+T+A=
 			</data>
 		</dict>
 		<key>Headers/FGMAdEventDefines.h</key>
@@ -174,11 +178,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5sO675QJ38oMCsE1VuW7zeQOdc8=
+			SV6antS6nGi1FbZX97tUUJBPPmA=
 			</data>
 			<key>hash2</key>
 			<data>
-			aZ7KpVeQX+wn/o2ajrLrRQKSfjgt3rcd/DEf/94dpEA=
+			V+QnJHBlY9XWI2v7aBCWwG//RtJNk89A6Loh6B0Mevc=
+			</data>
+		</dict>
+		<key>Headers/FGMAdLoadInfoEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5nLJT5/iKUC4sFQvDhMYaO2lsRY=
+			</data>
+			<key>hash2</key>
+			<data>
+			eYojp3FMEXIZYJCirxfuMbP/XQKjp3HdXkSzpkGDwDQ=
 			</data>
 		</dict>
 		<key>Headers/FGMAdRewardEvent.h</key>
@@ -207,22 +222,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Oykw1HSW6++JA7nOno7sc1fPosI=
+			lyNIUN8GgZQ3M7QmRBtz/wsFlsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8QxRX4z8JOPiE2hWMzaDkQ3TWFV/ElgjLFEqWc5Kik=
+			piWq08AK+FOzRfgPenGLLajoDHXf1WLtOGBYP+tncpY=
 			</data>
 		</dict>
 		<key>Headers/FlutterAdsCore.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x6b4nGAr/zXi/4zlEhTbQqAhVd4=
+			9qN2tRlmQsCdxFhokqQXDfmt/KM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hOxhJFCYGlICCSTrBYYBEcumpo3WDzYi5+qRa60Hvxk=
+			t+D8xdcugDMRLRTUVPFOkpBTKW0l2MG/dGJMMHmNCec=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -284,11 +299,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4gm+57NeXgZOak64GmnpEJ68bcw=
+			WYaVmzJXqbaXVEHolxEwXsJQG0Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			4R/w7k6jrR+x8Z+fV9XtyJqaZdBR0mjRT09FplBm7DY=
+			NwVcOvt/CFGOZalA+96o7Q8KkIuaUf4aelpBpQnn2Eo=
 			</data>
 		</dict>
 		<key>PrivateHeaders/FGMFeedAdLoad.h</key>
@@ -372,11 +387,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y2OF1lmZP7JEPX7x7cwGB2Vc2q4=
+			UcDZxJcKtCO3AxSgTIG0YS1Mp6M=
 			</data>
 			<key>hash2</key>
 			<data>
-			w7d7LN4VSB+Bg48X6oXDxfMvIpihnBD+wgaxJFE27LU=
+			CO+ZaHDAUd4mxdESC3fwNNomPEMYc2Nbo+5KQljRM2o=
 			</data>
 		</dict>
 		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>

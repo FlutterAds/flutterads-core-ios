@@ -16,5 +16,7 @@
 @property (nonatomic, assign) double latitude;
 /// 是否允许使用地理位置
 @property (nonatomic, assign) BOOL canUseLocation;
+/// 是否允许使用 WiFi BSSID
+@property (nonatomic, assign) BOOL canUseWiFiBSSID;
 
 @end

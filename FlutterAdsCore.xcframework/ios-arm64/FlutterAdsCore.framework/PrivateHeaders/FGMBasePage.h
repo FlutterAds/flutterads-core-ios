@@ -16,6 +16,8 @@
 @interface FGMBasePage : NSObject
 // 广告位 id
 @property (strong,nonatomic) NSString *posId;
+// 广告 id
+@property (strong,nonatomic,nullable) NSNumber *adId;
 // 窗口
 @property (strong,nonatomic) UIWindow *mainWin;
 // 跟控制器
@@ -34,6 +36,8 @@
 - (void) sendErrorEvent:(NSError*) error;
 // 发送  Ecmp 事件
 - (void) sendEcmpEvent:(BUMRitInfo*) info;
+// 发送 ADN 加载错误信息
+- (void) sendAdLoadInfoEvent:(NSArray *) loadInfoList;
 
 // 设置事件回调
 - (void) sendEventCallback:(NSString *)event arguments:(NSDictionary *) arguments;

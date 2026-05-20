@@ -15,6 +15,7 @@
 #import "FGMAdEvent.h"
 #import "FGMAdEventDefines.h"
 #import "FGMAdEventHandler.h"
+#import "FGMAdLoadInfoEvent.h"
 #import "FGMAdRewardEvent.h"
 #import "FGMAdDefines.h"
 #import "FGMGroMore.h"
