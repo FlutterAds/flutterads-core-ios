@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FlutterAdsCore'
-  s.version          = '2.0.0'
+  s.version          = '2.1.0'
   s.summary          = 'A Flutter Ads plugin core library for iOS.'
   s.description      = <<-DESC
 A Flutter Ads plugin core library for iOS.
@@ -9,7 +9,9 @@ A Flutter Ads plugin core library for iOS.
   s.license          = { :type => 'Apache-2.0', :file => 'LICENSE' }
   s.author           = { 'FlutterAds' => 'https://flutterads.top/' }
  
-  # 二进制框架方式配置进行测试
+  # 发布本地源
+  # s.source           = { :path => '.' }
+  # 发布正式远端源
   s.source           = { 
     :git => 'https://github.com/FlutterAds/flutterads-core-ios.git',
     :tag => "v#{s.version}"

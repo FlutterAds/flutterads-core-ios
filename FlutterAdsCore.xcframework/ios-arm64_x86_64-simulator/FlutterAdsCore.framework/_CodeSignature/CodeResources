@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fR6S4AicThpG6Kl6vImZUwFUAGI=
+		omTenw0t3KkjkcNnuoyWEvTXhG4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -121,10 +121,6 @@
 	<dict>
 		<key>Headers/FGMAdDefines.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			u8VRnnEpGbuy+EHkF+PZXGFZsB0=
-			</data>
 			<key>hash2</key>
 			<data>
 			YNdacamkLXNCb+jhUNk1dIiEs6Q9KrPdv3rNgTmwJU0=
@@ -132,10 +128,6 @@
 		</dict>
 		<key>Headers/FGMAdEcpmEvent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6vzvjY90NP7rH7ZAkeLeya6cXqc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Z4V1qtbLDGg9XbABXD2ooPyyNYzAWfhVbH03sCbPW2Q=
@@ -143,10 +135,6 @@
 		</dict>
 		<key>Headers/FGMAdErrorEvent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Nospqxdyi4gN4bc5lpzE3AVhm8E=
-			</data>
 			<key>hash2</key>
 			<data>
 			MSyTCmwdjO+FQihpCdGICA/BGWwCkMFImvBWxVX+Slo=
@@ -154,10 +142,6 @@
 		</dict>
 		<key>Headers/FGMAdEvent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			30XQJcqeJdHznGGMf2XrJa/yXVQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			NZwULHiFFTKzeLrn+wN50vbl8/J58tlThTxADuw+T+A=
@@ -165,10 +149,6 @@
 		</dict>
 		<key>Headers/FGMAdEventDefines.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D41wGA0IBF4FQ19OGNAWksHLqOU=
-			</data>
 			<key>hash2</key>
 			<data>
 			E2riv2YbTTd8mrm3vn6fhZxmpzGfUSrPmYA/APbrpjk=
@@ -176,10 +156,6 @@
 		</dict>
 		<key>Headers/FGMAdEventHandler.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SV6antS6nGi1FbZX97tUUJBPPmA=
-			</data>
 			<key>hash2</key>
 			<data>
 			V+QnJHBlY9XWI2v7aBCWwG//RtJNk89A6Loh6B0Mevc=
@@ -187,10 +163,6 @@
 		</dict>
 		<key>Headers/FGMAdLoadInfoEvent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5nLJT5/iKUC4sFQvDhMYaO2lsRY=
-			</data>
 			<key>hash2</key>
 			<data>
 			eYojp3FMEXIZYJCirxfuMbP/XQKjp3HdXkSzpkGDwDQ=
@@ -198,10 +170,6 @@
 		</dict>
 		<key>Headers/FGMAdRewardEvent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3ssF15khZzBww4DGX8/Fs6o+fR4=
-			</data>
 			<key>hash2</key>
 			<data>
 			n7ga1uHyfVkv+wodiVylD60uvZI7/DyCS2FOtSzJKHI=
@@ -209,10 +177,6 @@
 		</dict>
 		<key>Headers/FGMGroMore.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TBIhtH9BVWYcLsdhtlLKcf/RgPA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Bt86YxdPvW6BlSfobLonVv65unmamTf7u+bnSrdP28U=
@@ -220,10 +184,6 @@
 		</dict>
 		<key>Headers/FlutterAdsCore-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lyNIUN8GgZQ3M7QmRBtz/wsFlsc=
-			</data>
 			<key>hash2</key>
 			<data>
 			piWq08AK+FOzRfgPenGLLajoDHXf1WLtOGBYP+tncpY=
@@ -231,10 +191,6 @@
 		</dict>
 		<key>Headers/FlutterAdsCore.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9qN2tRlmQsCdxFhokqQXDfmt/KM=
-			</data>
 			<key>hash2</key>
 			<data>
 			t+D8xdcugDMRLRTUVPFOkpBTKW0l2MG/dGJMMHmNCec=
@@ -242,10 +198,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			coIw0KlUmUoM4h5Nhbkh3kn13oM=
-			</data>
 			<key>hash2</key>
 			<data>
 			NOanUJ7aQc8CQRUVjWgzBKMOS/on6cm4MfNLQnAeb9c=
@@ -253,10 +205,6 @@
 		</dict>
 		<key>PrivateHeaders/AppInfoUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mNxjenaldyO0VXcFLOqpbWh+JJQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			p14KUUDuio2HmmxnGYb8SuS8Eomr6b6Jp0Lnvl6cEdI=
@@ -264,10 +212,6 @@
 		</dict>
 		<key>PrivateHeaders/FCGMAdBannerView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pVHXi5riKkSx4hVpLPPYAZeI7lA=
-			</data>
 			<key>hash2</key>
 			<data>
 			2Pa0msYFrBkO8ko5DEoO9T0VRP6ZC4Lr4jVyC5tSxTs=
@@ -275,10 +219,6 @@
 		</dict>
 		<key>PrivateHeaders/FCGMAdDrawFeedView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			upDRRBt2pIQVC1IcxSh6qdGTVbs=
-			</data>
 			<key>hash2</key>
 			<data>
 			pzsxih+aOw82Fum/2JniFNc56o1Xx++D7mDJHho2lpg=
@@ -286,10 +226,6 @@
 		</dict>
 		<key>PrivateHeaders/FCGMAdFeedView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fvvdq+W8y7f1UE9yXzqUFD3Lk4U=
-			</data>
 			<key>hash2</key>
 			<data>
 			YQoG2rJ/2Ls08csEg07zPfJEim8mRIfO/KCVlu0nqtE=
@@ -297,10 +233,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMBasePage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WYaVmzJXqbaXVEHolxEwXsJQG0Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			NwVcOvt/CFGOZalA+96o7Q8KkIuaUf4aelpBpQnn2Eo=
@@ -308,10 +240,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMFeedAdLoad.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VKaKkoyklwkuNXOBCyaJHgtC67Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			NkQ8wBgVGsrf/18/0JJWWlNI0QzNhLArjXPZSTQvft4=
@@ -319,10 +247,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMFeedAdManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Q++CFAGWZUPo3AqYTttG0h9m+2k=
-			</data>
 			<key>hash2</key>
 			<data>
 			WDSbofDWht2kSCkOGDi+4mbJlhU9K4ZJ8ONbpLYSgiU=
@@ -330,10 +254,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMInterstitialPage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PAQCrNc9Ry1pkMCf5GkBeRVoom4=
-			</data>
 			<key>hash2</key>
 			<data>
 			jAaS5js8IdJr/83ZYsyJ2/dUDSYYkeGVjCcbWKu9zeE=
@@ -341,10 +261,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMNativeViewFactory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OK94VYmvvCiKgcfvt9nV1AE+/mk=
-			</data>
 			<key>hash2</key>
 			<data>
 			4ynGclZqO7IEiuSIMYcfBM8lP5w/zzlJg1vO99MnekA=
@@ -352,10 +268,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMNetworkManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jIXNtz8IFKu7vyRtKKwd9VXHeC8=
-			</data>
 			<key>hash2</key>
 			<data>
 			e40hYFgXz0eosBTCFQVAdonoIjabCkwbQ5xsouX00a8=
@@ -363,10 +275,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMRewardVideoPage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mrXiJlNGmttFWM75POXrcGK943M=
-			</data>
 			<key>hash2</key>
 			<data>
 			rQNED8n43Esgqusl37AkyFTcRwdgPRmozwPyML9mJsA=
@@ -374,10 +282,6 @@
 		</dict>
 		<key>PrivateHeaders/FGMSplashPage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZnjYiZhY2dOdYtg/vQq6Zj0gDDk=
-			</data>
 			<key>hash2</key>
 			<data>
 			ahESZKVceYdeGREl6WclyizYbObIV8zWcgPEJbwwG4s=
@@ -385,10 +289,6 @@
 		</dict>
 		<key>PrivateHeaders/FlutterAdsPrivacyProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UcDZxJcKtCO3AxSgTIG0YS1Mp6M=
-			</data>
 			<key>hash2</key>
 			<data>
 			CO+ZaHDAUd4mxdESC3fwNNomPEMYc2Nbo+5KQljRM2o=
@@ -396,10 +296,6 @@
 		</dict>
 		<key>PrivateHeaders/NSDictionary+SafeAccess.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4G7TjLGJ8tTGQxW7fNxpX5jh0N8=
-			</data>
 			<key>hash2</key>
 			<data>
 			NUhrWw+a04B9NQJcJVKqYrY8/Q8oBtWqvAZlLvy6OL0=
@@ -407,10 +303,6 @@
 		</dict>
 		<key>PrivateHeaders/SimpleLicenseManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UfkcRu3xOJFrjmpnctItMNexp1A=
-			</data>
 			<key>hash2</key>
 			<data>
 			ubx/yTOolwBvl6ULaPl3IBUS0sujOsAMNqR3eFmJXss=
