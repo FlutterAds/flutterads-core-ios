@@ -16,7 +16,6 @@ extern NSString *const kFlutterAdsLicenseTips;
 - (void)requestValidation;
 - (void)performValidation;
 - (BOOL)isValid;
-- (void)clearCache;
 - (void)setDebug:(BOOL)debug;
 
 @end
