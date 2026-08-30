@@ -6,5 +6,7 @@
 //
 
 #import <BUAdSDK/BUAdSDK.h>
+#if __has_include(<BUAdTestMeasurement/BUAdTestMeasurement.h>)
 #import <BUAdTestMeasurement/BUAdTestMeasurement.h>
+#endif
 #import <BUAdSDK/BUAdSDKPrivacyProvider.h>
