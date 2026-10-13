@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FlutterAdsCore'
-  s.version          = '2.6.0'
+  s.version          = '2.7.0'
   s.summary          = 'A Flutter Ads plugin core library for iOS.'
   s.description      = <<-DESC
 A Flutter Ads plugin core library for iOS.
@@ -23,10 +23,10 @@ A Flutter Ads plugin core library for iOS.
   s.vendored_frameworks = 'FlutterAdsCore.xcframework'
 
   # GroMore 聚合 SDK
-  s.dependency 'Ads-CN/BUAdSDK', '7.7.0.8'
-  s.dependency 'Ads-CN/CSJMediation-Only', '7.7.0.8'
+  s.dependency 'Ads-CN/BUAdSDK', '7.8.0.7'
+  s.dependency 'Ads-CN/CSJMediation-Only', '7.8.0.7'
   # GroMore 测试 SDK（仅在 Debug 模式下有效）
-  s.dependency 'Ads-CN/BUAdTestMeasurement', '7.7.0.8', :configurations => ['Debug']
+  s.dependency 'Ads-CN/BUAdTestMeasurement', '7.8.0.7', :configurations => ['Debug']
   # 基础依赖
   s.frameworks = 'Foundation'
   
